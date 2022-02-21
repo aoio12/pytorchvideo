@@ -1,0 +1,69 @@
+.
+├── .gitignore
+├── README.md
+├── acc_fig/
+│   ├── ffmpeg/
+│   ├── ffmpeg_train/
+│   └── jpeg/
+├── batch_video_check.ipynb
+├── class_check/
+│   ├── gop/
+│   └── original/
+├── class_check.ipynb
+├── class_check.py
+├── clipsampler.ipynb
+├── comet_api_figure/
+│   ├── comet_api_1.ipynb
+│   ├── comet_api_2.ipynb
+│   ├── comet_api_3.ipynb
+│   ├── comet_api_4.ipynb
+│   ├── comet_api_debug.ipynb
+│   ├── comet_api_ffmpeg_1.ipynb
+│   ├── jpeg_quality_plotfit.ipynb
+│   └── kinetics_train.ipynb
+├── compression_dataset.py
+├── compression_train.py
+├── compression_train_scratch.py
+├── compression_transform.py
+├── config.ini
+├── dataset_imgaug.py
+├── dataset_info/
+│   ├── filesize_fig/
+│   ├── kinetics400_crfg_filesize.ipynb
+│   ├── kinetics400_crfg_stream_stats.ipynb
+│   ├── kinetics400_q_filesize.ipynb
+│   ├── kinetics400_q_stream_stats.ipynb
+│   ├── kinetics400stats.ipynb
+│   ├── kinetics400stats.txt
+│   └── stream_fig/
+├── images/
+├── img_score.py
+├── jpeg_filesize/
+│   ├── filesize.ipynb
+│   └── jpeg_compression_frame.py
+├── kinetics_train/
+│   ├── __pycache__/
+│   ├── resnet.py
+│   ├── slowfast_r101.py
+│   └── x3d_m.py
+├── model.ini
+├── model_load_val.py
+├── model_path/
+│   ├── .DS_Store
+│   ├── ._.DS_Store
+│   ├── Kinetics400/
+│   ├── UCF101/
+│   └── scratch/
+├── pytorchvideo_dir.txt
+├── score_cal.py
+├── ucf_model.py
+├── ucf_train/
+│   ├── __pycache__/
+│   ├── compression_transform.py
+│   ├── model_save.py
+│   ├── resnet.py
+│   ├── slowfast_r101.py
+│   ├── train_ucf.py
+│   └── x3d_m.py
+├── ucf_train.ipynb
+
